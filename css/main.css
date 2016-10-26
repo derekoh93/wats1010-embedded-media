@@ -43,7 +43,7 @@ body{
   top: 50px;
   right: 0;
   width: 25px;
-  background-color: blue;
+  background-image: url(../img/monkey_flight.jpg);
   color: yellow;
   transition: 2s;
 }
@@ -73,18 +73,51 @@ body{
 #watch h3{
   margin-right: auto;
   margin-left: auto;
-  width: 200px
+  width: 200px;
+    color: yellow;
 }
 #watch p{
  margin-right: auto;
   margin-left: auto;
   width: 225px;
+  color: yellow;
 }
 #watch p a{
   border: solid 1px black;
-  color: white;
+  color: yellow;
   padding: 35px 45px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  background-image: url(../img/monkaa_monkeyhang.jpg)
+}
+#listen h2{
+  margin-right: auto;
+  margin-left: auto;
+  width: 150px;
+  color: yellow;
+}
+#listen audio{
+  margin-left:800px;
+}
+#listen p a {
+  border: solid 1px black;
+  color: yellow;
+  padding: 35px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background-image: url(../img/monkaa_monkeyhang.jpg)
+}
+#listen h3{
+  margin-right: auto;
+  margin-left: auto;
+  width: 200px;
+  color: yellow;
+}
+#listen p{
+  margin-right: auto;
+  margin-left: auto;
+  width: 225px;
+  color: yellow;
 }
