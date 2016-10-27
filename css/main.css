@@ -121,3 +121,33 @@ body{
   width: 225px;
   color: yellow;
 }
+#about h2{
+  color: yellow;
+}
+.lead{
+    color: #202020;
+    background-color: #2d2d2d;
+    letter-spacing: .1em;
+    text-shadow: 
+      -1px -1px 1px #111, 
+      2px 2px 1px #363636;
+}
+.weybec-people{
+ list-style: none; 
+}
+.weybec-people img{
+  height: 100px;
+  width: 100px;
+}
+#about p{
+  background-image: url(../img/official_header.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: red;
+  border: solid 1px black;
+}
+footer{
+  border: solid 2px black;
+  background-color: pink;
+  color: black;
+}
